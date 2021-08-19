@@ -1,2 +1,2 @@
 #!/bin/bash\n
-ls -a -1
+ls -a -l
