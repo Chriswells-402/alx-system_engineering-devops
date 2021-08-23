@@ -1,0 +1,2 @@
+#!/bin/bash\n
+tr 'c' 'e'| tr 'A' 'Z'

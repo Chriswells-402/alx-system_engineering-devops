@@ -1,0 +1,1 @@
+This file explains what the shell redirection is and how it is done
