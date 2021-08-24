@@ -1,2 +1,2 @@
-#!/bin/bash\n
-echo $((TRUEKNOWLEDGE=TRUEKNOWLEDGE+128))
+#!/bin/bash
+echo $((TREKNOWLEDGE=TRUEKNOWLEDGE+128))
